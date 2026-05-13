@@ -203,11 +203,7 @@ void Error_Handler(void)
 
 ## OUTPUT
 
-
-
 <img width="720" height="1600" alt="590930580-65a14d69-3f42-4c95-a774-ddad18cd4d63" src="https://github.com/user-attachments/assets/c826885d-47ad-4dfd-995b-b1d8ad83d166" />
-
-
 
 
 <img width="720" height="1600" alt="590931311-c7046a0c-3f70-423c-9419-1e61fb7d8752" src="https://github.com/user-attachments/assets/3931b6ea-6aab-49f5-bfca-8ce5065d0f4d" />
